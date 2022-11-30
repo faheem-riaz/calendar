@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "136205075172",
+    "project_id": "calendar-3d563",
+    "storage_bucket": "calendar-3d563.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136205075172:android:b23addacdf35fd733fe2f1",
+        "android_client_info": {
+          "package_name": "com.faheem.calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136205075172-o0tj2nlm719bsptat1oa3c5qed5337ml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.faheem.calendar",
+            "certificate_hash": "4da901de8648852e5b4645188528ca7ab86067c8"
+          }
+        },
+        {
+          "client_id": "136205075172-f5guvis04uciv7h0tl7m13flc91dmrna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW6mqCuaM5jG_tbBXML9yuwHfngr7S44I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136205075172-f5guvis04uciv7h0tl7m13flc91dmrna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
